@@ -3,4 +3,4 @@
 * NODE JS 와 EXPRESS JS 다운로드 하기
 * 몽고 DB 연결하기
 * Git 설치하기
-* 노드 리액트 기초 강의 #6 SSH를 이용해 GITHUB 연결
+* SSH를 이용해 GITHUB 연결
