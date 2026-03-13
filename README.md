@@ -4,3 +4,4 @@
 * 몽고 DB 연결하기
 * Git 설치하기
 * SSH를 이용해 GITHUB 연결
+* 로그인 기능 with Bcrypt (1)
