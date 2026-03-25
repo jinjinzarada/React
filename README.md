@@ -6,3 +6,4 @@
 * SSH를 이용해 GITHUB 연결
 * 로그인 기능 with Bcrypt (1)
 * 토큰 생성 with jsonwebtoken
+* 로그아웃 기능
